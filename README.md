@@ -1,2 +1,11 @@
-# -REAL-TIME-VEHICLE-CLASSIFICATION-AND-LOCALIZATION-USING-EDGE-COMPUTING-
-The project aims to develop a traffic monitoring system using convolution neural network. We had modified existing tiny YOLO model for Indian vehicle such as auto rickshaw, bicycle, motorbikes etc. To do this, first we developed a data set of these vehicles then we retrained the existing tiny YOLO model. Moreover, with raspberry Pi we have developed a prototype for edge device which can count incoming and outgoing traffic from a particular point. There are various applications of such devices for example, it can be used as traffic monitoring system, surveillance, traffic load prediction. This is a fully functional independent device. All the decision has been done locally, this make this device highly useful for IoTs.
+                                  VEHICLE LOCALIZATION ON INDIAN ROADS
+
+                              Rahul Krishnan | Swapnil Panwala | Akhil John
+                                       Department of Computer Science
+
+
+                                                *Abstract*
+                                                
+The project aims at detecting and classifying relevant objects in a video stream (Surveillance Video) in real time. The project is a step forward in the era of Edge Computing, by delivering a fully functional and independent end-user device, such as the Pi. We discuss in length the progress made leading upto the current development scene and possible future enhancements that can serve as motivation for further work. We study various working models and further divulge into the chosen model with a discussion on the steps involved for the same.
+
+[![Alt text](https://img.youtube.com/vi/L0dR9TxhQSA/1.jpg)](https://www.youtube.com/watch?v=L0dR9TxhQSA)
